@@ -26,7 +26,9 @@
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;		/* font used in most places														*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);	/* general background image						*/
+	--background:					url(https://scontent-hkt1-2.xx.fbcdn.net/v/t1.15752-9/p1080x2048/121697861_388617518964756_606909115955923311_n.jpg?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=ucovLQlAs8EAX9jgQUt&_nc_ht=scontent-hkt1-2.xx&tp=6&oh=e83a1bcf0b934572a15109e3f98bdfe9&oe=5FC9CB15)
+		
+	);	/* general background image						*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of general background - values: [cover/contain/auto])					*/
 	--backgroundblur:				0px;						/* default: 0px					(only works when --background is set to an image)								*/
 	
